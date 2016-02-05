@@ -5,4 +5,17 @@
 img {
 display: block;
 margin: 0 auto;
+height: 400px;
+}
+.item {
+  max-height: 600px;
+
+}
+
+.carousel-inner {
+  height: 400px;
+}
+
+li {
+  float: left;
 }
